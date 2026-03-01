@@ -1,7 +1,3 @@
-Here’s a **complete GitHub README-style project description** combining your dashboard explanation + insights + technical details. You can paste this directly into your repository `README.md`.
-
----
-
 # Exploratory Data Analysis & Business Intelligence Dashboard — Myntra Sales Dataset
 
 # Project Overview
